@@ -1,1 +1,1 @@
-# Youtube-Dashboard
+This project is a YouTube Analytics Dashboard built using Excel. It analyzes data from various YouTube videos, including views, likes, dislikes, comments, publish dates, and engagement metrics. The dashboard provides clear insights into video performance, audience engagement, top-performing content, and overall channel growth. It helps understand what type of content works best and supports data-driven decisions for improving a YouTube channel.
